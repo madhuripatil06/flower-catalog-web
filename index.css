@@ -1,0 +1,112 @@
+h1{
+	margin:100px; 
+	font-family: sans-serif;
+	font-size: 75px;
+	text-align: center;
+}
+
+h2{
+	font-family: serif;
+	font-size: 30px;
+	text-align: center;
+	color: #FFB00E;
+}
+
+#large{
+	margin:60px;
+	width: 1200px;
+	height:1000px;
+}
+
+h4{
+	font-size: 18px;
+	margin-top: 260px;
+	margin-right: 160px
+}
+
+h5{
+	font-size: 18px;
+	margin-right: 160px
+}
+
+small.hidden{
+	display: none;
+}
+
+#links{
+	float:right;
+}
+
+#small{
+	margin-right: 40px;
+}
+
+#guest{
+	margin-right: 210px;
+	margin-top: 5px;
+}
+
+#whole{
+	margin-left: 30px;
+}
+
+
+#agerantum{
+	margin:60px;
+	width: 1000px;
+	height:800px;
+}
+
+#page1{
+	float: right;
+}
+
+
+
+#leave{
+	font-size: 50px;
+	margin-left: 70px;
+	color: black;
+	text-align: left;
+}
+
+
+
+#name{
+	font-size: 40px;
+	width:500px;
+	height:50px;
+}
+
+#nameString{
+	margin-left: 70px;
+	color:black;
+	text-align: left;
+}
+
+#comment{
+	font-size: 70px;
+	width:500px;
+	height:100px;
+}
+
+#submit{
+	margin-left: 70px;
+	width:400px;
+	height:50px;
+}
+
+
+#list{
+	text-align: left;
+	color:black;
+}
+
+button{
+	margin-left: 70px;
+	width:100px;
+	height:50px;
+}
+
+
+

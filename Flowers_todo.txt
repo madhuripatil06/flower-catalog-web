@@ -1,0 +1,25 @@
+1) first of all try to put that image on the left hand side ..
+
+2)create a link whish has a name 'Abeliophyllum' which will go to another page.
+
+3) repeate step 2 for 'Ageratum' .
+
+4) there is one another link for guest book in which I should give 4 buttons with onclick event 
+
+5) by using js file I have to save this list of guests in reverse order & also I have to display the latest list on one part
+
+6) on each page I have make one key with a name 'download a book ' which will download 1 doc from my lib to the users folder in pdf format .
+
+
+
+
+challenges : - 
+
+
+1) I have to read about css alignments for image 
+
+2) I have to study about the button to click on it & go to previus page 
+
+
+
+ 
